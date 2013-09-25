@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'dbpropinsi'
+// dbpropinsi.propinsi
+
+[{"id_propinsi": 1,"propinsi": "Bali"}, {"id_propinsi": 2,"propinsi": "Bangka Belitung"}, {"id_propinsi": 3,"propinsi": "Banten"}, {"id_propinsi": 4,"propinsi": "Bengkulu"}, {"id_propinsi": 5,"propinsi": "DI Yogyakarta"}, {"id_propinsi": 6,"propinsi": "DKI Jakarta"}, {"id_propinsi": 7,"propinsi": "Gorontalo"}, {"id_propinsi": 8,"propinsi": "Jambi"}, {"id_propinsi": 9,"propinsi": "Jawa Barat"}, {"id_propinsi": 10,"propinsi": "Jawa Tengah"}, {"id_propinsi": 11,"propinsi": "Jawa Timur"}, {"id_propinsi": 12,"propinsi": "Kalimantan Barat"}, {"id_propinsi": 13,"propinsi": "Kalimantan Selatan"}, {"id_propinsi": 14,"propinsi": "Kalimantan Tengah"}, {"id_propinsi": 15,"propinsi": "Kalimantan Timur"}, {"id_propinsi": 16,"propinsi": "Kepulauan Riau"}, {"id_propinsi": 17,"propinsi": "Lampung"}, {"id_propinsi": 18,"propinsi": "Maluku"}, {"id_propinsi": 19,"propinsi": "Maluku Utara"}, {"id_propinsi": 20,"propinsi": "Nanggroe Aceh Darussalam (NAD)"}, {"id_propinsi": 21,"propinsi": "Nusa Tenggara Barat (NTB)"}, {"id_propinsi": 22,"propinsi": "Nusa Tenggara Timur (NTT)"}, {"id_propinsi": 23,"propinsi": "Papua"}, {"id_propinsi": 24,"propinsi": "Papua Barat"}, {"id_propinsi": 25,"propinsi": "Riau"}, {"id_propinsi": 26,"propinsi": "Sulawesi Barat"}, {"id_propinsi": 27,"propinsi": "Sulawesi Selatan"}, {"id_propinsi": 28,"propinsi": "Sulawesi Tengah"}, {"id_propinsi": 29,"propinsi": "Sulawesi Tenggara"}, {"id_propinsi": 30,"propinsi": "Sulawesi Utara"}, {"id_propinsi": 31,"propinsi": "Sumatera Barat"}, {"id_propinsi": 32,"propinsi": "Sumatera Selatan"}, {"id_propinsi": 33,"propinsi": "Sumatera Utara"}, {"id_propinsi": 34,"propinsi": "Kalimantan Utara"}]
